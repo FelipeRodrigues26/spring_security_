@@ -1,0 +1,4 @@
+br/com/security/SpringSecurityApplication.class
+br/com/security/config/JwtGrantedAuthConverter.class
+br/com/security/resources/WorkResource.class
+br/com/security/config/WebSecurityConfig.class
